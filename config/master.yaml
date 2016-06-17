@@ -73,5 +73,5 @@ spec:
       command:
         - /hyperkube
         - scheduler
-        - --kubeconfig=/secret/kubeconfig.yaml
+        - --kubeconfig=/config/kubeconfig.yaml
         - --v=2
